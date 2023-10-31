@@ -16,6 +16,7 @@
 		54A41F192AEB807300EBB592 /* TutorialAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A41F182AEB807300EBB592 /* TutorialAppTests.swift */; };
 		54A41F232AEB807300EBB592 /* TutorialAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A41F222AEB807300EBB592 /* TutorialAppUITests.swift */; };
 		54A41F252AEB807300EBB592 /* TutorialAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A41F242AEB807300EBB592 /* TutorialAppUITestsLaunchTests.swift */; };
+		54A41F342AEF932800EBB592 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A41F332AEF932800EBB592 /* Constant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		54A41F1E2AEB807300EBB592 /* TutorialAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TutorialAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		54A41F222AEB807300EBB592 /* TutorialAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialAppUITests.swift; sourceTree = "<group>"; };
 		54A41F242AEB807300EBB592 /* TutorialAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		54A41F332AEF932800EBB592 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				54A41F012AEB806E00EBB592 /* AppDelegate.swift */,
 				54A41F032AEB806E00EBB592 /* SceneDelegate.swift */,
 				54A41F052AEB806E00EBB592 /* ViewController.swift */,
+				54A41F332AEF932800EBB592 /* Constant.swift */,
 				54A41F072AEB806E00EBB592 /* Main.storyboard */,
 				54A41F0A2AEB807200EBB592 /* Assets.xcassets */,
 				54A41F0C2AEB807200EBB592 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				54A41F062AEB806E00EBB592 /* ViewController.swift in Sources */,
 				54A41F022AEB806E00EBB592 /* AppDelegate.swift in Sources */,
 				54A41F042AEB806E00EBB592 /* SceneDelegate.swift in Sources */,
+				54A41F342AEF932800EBB592 /* Constant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
